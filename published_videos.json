@@ -110,5 +110,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b69c42a2-13a2-4a36-af19-032aaaa86bd1.mp4",
+        "metadata": {
+            "title": "From Steel Skeleton to Concrete Soul: A Mesmerizing Bridge Build in Time-Lapse Glory",
+            "description": "Like if you love bridge construction! Watch as towering cranes lift gleaming steel beams into place, concrete foundations harden into strength, and each precise step locks together into an engineering marvel. Every frame feels satisfying\u2014smooth progress, crisp alignment, and the quiet power of infrastructure coming to life. Comment which bridge you want to see next, and whether you\u2019re team steel, team concrete, or both. Share with an engineering fan who lives for megaproject magic\u2014and follow Bridges Bountsy for more mesmerizing time-lapse builds. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
