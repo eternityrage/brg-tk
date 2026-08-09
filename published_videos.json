@@ -158,5 +158,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-001ff945-6090-49cc-a854-f7ac04f3090d.mp4",
+        "metadata": {
+            "title": "THE BRIDGE AWAKENS: Steel Giants, Concrete Foundations & Crane Fireworks (Timelapse Movie Moment)",
+            "description": "Brace yourself\u2014this is bridge construction as epic cinema: massive steel beams locking into place, concrete foundations curing like the heartbeat of a city, and cranes swinging with precision so bold it feels unreal. From the first groundwork to the final structural rhythm, every frame is a tribute to civil engineering grit and the kind of megaproject magic that turns distance into destiny. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan and Follow Bridges Bountsy for more dramatic time-lapse engineering marvels. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
