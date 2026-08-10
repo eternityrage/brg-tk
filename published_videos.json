@@ -238,5 +238,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-4ec1fb28-c5e7-4e27-b666-73b3e3afef47.mp4",
+        "metadata": {
+            "title": "From Blueprint to Beams: A Bridge\u2019s Steel Skeleton Comes Alive in Timelapse Wonder | Bridges Bountsy",
+            "description": "Like if you love bridge construction! In this time-lapse, watch steel beams rise with crane precision, concrete foundations lock in the ground truth, and every segment snaps into place like a carefully choreographed engineering symphony. As a bridge engineering enthusiast, I love how these moments reveal the real \u201cwhy\u201d behind the work\u2014load paths, alignment, and structural connections that turn raw materials into safe, resilient infrastructure. Notice how the sequence matters: foundation stability comes first, then steel framing takes over the heavy lifting, step by step. Comment which bridge you want to see next, Share with an engineering fan!, and Follow Bridges Bountsy!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
