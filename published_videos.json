@@ -270,5 +270,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-4ec1fb28-c5e7-4e27-b666-73b3e3afef47.mp4",
+        "metadata": {
+            "title": "Steel, Concrete, and Pure Megaproject Magic \u2014 A Bridge Build Timelapse That Feels Like Music",
+            "description": "Watch as steel beams rise into place, concrete foundations lock in strength, and massive cranes orchestrate every precise move\u2014layer by layer, beam by beam. This satisfying time-lapse turns bridge construction into a mesmerizing engineering story, where progress is visible, measurable, and wildly beautiful. From the first structural landing to the final alignment moments, you\u2019ll feel the power of infrastructure coming together in real time. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy! #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
