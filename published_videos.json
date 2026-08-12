@@ -350,5 +350,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-001ff945-6090-49cc-a854-f7ac04f3090d.mp4",
+        "metadata": {
+            "title": "From Steel Skeleton to Concrete Backbone: A Bridge Construction Time\u2011Lapse You\u2019ll Want to Watch Twice",
+            "description": "Like if you love bridge construction! In this time-lapse, watch steel beams rise, concrete foundations take shape, and massive cranes swing with pinpoint precision\u2014every movement a step toward a structure engineered to handle real loads for decades. As the pieces come together, you\u2019re seeing the teamwork of design and construction: load paths, reinforcement strategy, and geometry all working in harmony like a real-world math problem you can admire. Bridge engineering isn\u2019t just impressive\u2014it\u2019s the careful transformation of materials into reliability, strength, and safety. Comment which bridge you want to see next, share with an engineering fan, and Follow Bridges Bountsy for more satisfying engineering marvels. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
