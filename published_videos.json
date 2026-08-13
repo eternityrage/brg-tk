@@ -366,5 +366,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-001ff945-6090-49cc-a854-f7ac04f3090d.mp4",
+        "metadata": {
+            "title": "The Making of an Epic Crossing: Steel & Concrete Rise in One Cinematic Timelapse",
+            "description": "From the first iron heartbeat of steel beams to the thunderous precision of cranes and poured concrete foundations, this time-lapse captures bridge construction like a movie scene\u2014every second engineered, every moment building toward the impossible. Watch the framework lock into place, tension and alignment shaping an infrastructure masterpiece in real time. I\u2019m a bridge engineering enthusiast, and this is exactly the kind of megaproject magic that makes my pulse race. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy! #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
