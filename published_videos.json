@@ -382,5 +382,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-001ff945-6090-49cc-a854-f7ac04f3090d.mp4",
+        "metadata": {
+            "title": "From Ground to Glory: Watch Steel, Concrete & Cranes Transform Into a New Bridge (Timelapse Marvel!)",
+            "description": "Every second of this time-lapse captures the raw power of bridge engineering\u2014steel beams rising like skeletons of the future, concrete foundations locking everything into place, and cranes swinging with precision and purpose. As the structure comes together, you can practically feel the scale of the work: meticulous planning, heavy-duty engineering, and the kind of teamwork that turns blueprints into lifelines. This is infrastructure at its most awe-inspiring, celebrating the megaprojects that connect communities and push what\u2019s possible. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
