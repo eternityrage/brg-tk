@@ -430,5 +430,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b293414f-04b3-4a5c-b70f-9700a987f1e4.mp4",
+        "metadata": {
+            "title": "From Steel Beams to Thunderous Concrete: A Bridge Build Timelapse You\u2019ll Watch Twice",
+            "description": "Join me, fellow bridge nerds, as we fast-forward through the jaw-dropping journey from steel beams and precise crane lifts to hardened concrete foundations that turn engineering plans into reality. In this timelapse, every rotation, placement, and pour reveals how forces are managed, alignment is controlled, and strength is built\u2014one calculated step at a time. You\u2019ll see why bridge construction isn\u2019t just \u201cbuilding,\u201d it\u2019s a choreography of structural engineering, material performance, and construction strategy. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy! #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
