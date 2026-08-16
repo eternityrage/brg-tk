@@ -510,5 +510,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-1d722192-4a37-40ae-8e3f-677ec2674062.mp4",
+        "metadata": {
+            "title": "From Steel Skeleton to Crossing Dream: A Celebratory Bridge Build Timelapse by Bridges Bountsy",
+            "description": "Like if you love bridge construction! Watch steel beams rise, concrete foundations set like a promise, and mighty cranes choreograph every precision move\u2014turning raw materials into an engineering marvel in breathtaking time-lapse speed. Each frame is a reminder that infrastructure isn\u2019t just built for today\u2019s traffic; it\u2019s crafted for tomorrow\u2019s journeys, with every bolt and beam earning its place. Comment which bridge you want to see next and share the wonder with an engineering fan\u2014because these megaproject moments deserve a standing ovation. Follow Bridges Bountsy for awe-inspiring build stories, satisfied engineering cravings, and the magic of bridges coming alive. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
