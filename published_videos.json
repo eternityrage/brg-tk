@@ -558,5 +558,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b69c42a2-13a2-4a36-af19-032aaaa86bd1.mp4",
+        "metadata": {
+            "title": "From Ground to Glory: Steel Rising in a Jaw-Dropping Bridge Build Timelapse by Bridges Bountsy",
+            "description": "Raise your hard hat\u2014this time-lapse is pure bridge engineering magic! Watch steel beams rise, concrete foundations lock in place, and massive cranes swing with precision, turning raw groundwork into an infrastructure masterpiece. Every frame feels like a celebration of the people and processes behind this megaproject\u2014engineering moments you can practically hear crackling with momentum. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan and Follow Bridges Bountsy for more awe-inspiring builds. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
