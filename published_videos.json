@@ -606,5 +606,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-1d722192-4a37-40ae-8e3f-677ec2674062.mp4",
+        "metadata": {
+            "title": "Cranes Roar, Steel Awakens: A Bridge Built in Thunderous Time-Lapse (Bridges Bountsy)",
+            "description": "Like if you love bridge construction! Watch steel beams rise like titans, concrete foundations lock in with precision, and towering cranes orchestrate every epic move\u2014compressed into a cinematic time-lapse that feels straight out of a blockbuster. From the first foundations to the final structural rhythm, this is pure civil-engineering magic: engineering marvels built for the future, one decisive placement at a time. Comment which bridge you want to see next! Share with an engineering fan and Follow Bridges Bountsy for more dramatic builds, satisfying progress, and megaproject thrills. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
