@@ -1118,5 +1118,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-907abf98-2347-475b-855c-854cccebb2b2 (1).mp4",
+        "metadata": {
+            "title": "From Groundwork to Sky-Span: A Timelapse of Steel Beams, Cranes, and Concrete Foundations (Bridge Engineering in Motion)",
+            "description": "Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy! In this captivating time-lapse, watch steel beams rise, concrete foundations harden into strength, and towering cranes orchestrate every precision lift\u2014piece by piece, the bridge transforms from raw materials into an engineering marvel. As a bridge engineering enthusiast, I love how each phase reveals the logic behind load paths, structural alignment, and the careful coordination required for megaprojects to stand strong. Every frame is a satisfying reminder that infrastructure isn\u2019t just built\u2014it\u2019s engineered, tested, and brought to life with relentless accuracy. Want more real-world construction insight like this? Hit follow and join the countdown to the next build!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
