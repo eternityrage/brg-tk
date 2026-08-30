@@ -1182,5 +1182,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-4ec1fb28-c5e7-4e27-b666-73b3e3afef47.mp4",
+        "metadata": {
+            "title": "From Blueprint to Behemoth: The Epic Rise of a Bridge (Steel, Concrete & Cranes in Time-Lapse)",
+            "description": "Watch as steel beams lock into place, cranes swing with precision, and concrete foundations transform the ground into something monumental\u2014this is bridge construction as pure cinematic engineering. In this dramatic time-lapse, every frame feels like a countdown to impact, turning scaffolding and rebar into an infrastructure marvel built to last. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan and Follow Bridges Bountsy for more megaproject magic. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
