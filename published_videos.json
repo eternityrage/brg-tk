@@ -3198,5 +3198,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b293414f-04b3-4a5c-b70f-9700a987f1e4.mp4",
+        "metadata": {
+            "title": "Steel to Stone: Watch a Bridge Grow in Time-Lapse Glory (Cranes, Foundations & Engineering Magic!)",
+            "description": "Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy! From razor-clean steel beams to rock-solid concrete foundations, this mesmerizing time-lapse captures the exact moment cranes swing, bolts align, and an engineering dream turns into real infrastructure. Every frame feels like a satisfying blueprint coming to life\u2014an epic reminder of how much skill and precision it takes to build across the gap. If you\u2019re a bridge enthusiast, this one will pull you in from the first shot to the final beam.",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
