@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -25,6 +25,10 @@ wheels/
 
 # Environment variables
 .env
+.env.*
+*.env
+token_*.json
+*token*.json
 
 # Processed videos
 Videos/
@@ -43,4 +47,3 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-
