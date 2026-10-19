@@ -3526,5 +3526,22 @@
             "youtube_published": true,
             "youtube_published_at": "2026-10-19T11:29:36.971506+00:00"
         }
+    },
+    {
+        "video_name": "grok-video-907abf98-2347-475b-855c-854cccebb2b2 (31).mp4",
+        "published_at": "2026-10-19T19:39:06.488442+00:00",
+        "metadata": {
+            "title": "The Moment Two Giant Bridge Arches Meet in the Middle! \ud83c\udf09\u2728",
+            "description": "Watching these massive curved steel trusses lock together over the gorge is pure engineering magic. Incredible heavy machinery and fearless crews building our modern world.\n\n\ud83d\udcac Drop a \ud83d\udd25 if you love structural steel engineering!\n\ud83d\udc49 Follow Bridges Bountsy for daily bridge construction! \ud83c\udf09\u2728\n\n#BridgesBountsy #Bridge #CivilEngineering #Architecture #SteelTruss #Construction #TimeLapse #Shorts #Reels",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
