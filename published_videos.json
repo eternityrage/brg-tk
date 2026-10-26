@@ -3891,5 +3891,22 @@
             "youtube_published": true,
             "youtube_published_at": "2026-10-26T11:48:32.850359+00:00"
         }
+    },
+    {
+        "video_name": "grok-video-907abf98-2347-475b-855c-854cccebb2b2 (32).mp4",
+        "published_at": "2026-10-26T19:43:40.316890+00:00",
+        "metadata": {
+            "title": "How Engineers Spanned an Impossible Gap: Suspension Bridge Time-Lapse \ud83c\udf09\ud83d\udd25",
+            "description": "From the first foundation pour to the final stay cable tensioning, watch this impossible crossing come to life. The balance of physics, tension, and structural elegance is pure art.\n\n\ud83d\udcac Rate this bridge engineering feat from 1 to 10 in the comments!\n\ud83d\udc49 Follow @BridgesBountsy for the most satisfying bridge builds! \ud83c\udf09\ud83d\udd25\n\n#BridgesBountsy #Bridge #SuspensionBridge #EngineeringMarvel #CivilEngineering #Construction #TimeLapse #Shorts #Reels",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
