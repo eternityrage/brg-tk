@@ -4447,5 +4447,22 @@
             "youtube_published": true,
             "youtube_published_at": "2026-11-06T02:02:38.981821+00:00"
         }
+    },
+    {
+        "video_name": "grok-video-907abf98-2347-475b-855c-854cccebb2b2 (37).mp4",
+        "published_at": "2026-11-06T13:25:14.019762+00:00",
+        "metadata": {
+            "title": "Watch This Monster Steel Truss Bridge Get Built! \ud83c\udfd7\ufe0f\ud83c\udf09",
+            "description": "Thousands of tons of fabricated structural steel lifted hundreds of meters in the air. Watch this incredible time-lapse showing how engineers piece together this monumental steel arch bridge with millimeter precision.\n\n\ud83c\udfd7\ufe0f Tag an engineer or construction fan who needs to see this!\n\ud83d\udc49 Follow Bridges Bountsy for more mind-blowing infrastructure megaprojects! \ud83c\udf09\ud83d\udd25\n\n#BridgesBountsy #Bridge #SteelBridge #Engineering #Construction #TimeLapse #CivilEngineering #Infrastructure #MegaProject #Shorts #Reels",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
