@@ -5525,5 +5525,22 @@
             "youtube_published": true,
             "youtube_published_at": "2026-11-27T03:58:36.542785+00:00"
         }
+    },
+    {
+        "video_name": "grok-video-001ff945-6090-49cc-a854-f7ac04f3090d.mp4",
+        "published_at": "2026-11-27T15:47:30.762419+00:00",
+        "metadata": {
+            "title": "Engineering Marvel: Spanning Miles of Open Water! \ud83c\udf09\ud83d\udd25",
+            "description": "Battling fierce ocean currents, typhoons, and deep seafloor mud, engineers conquered nature to build this world-class sea-crossing bridge. A monumental human achievement in civil engineering.\n\n\ud83c\udf0a Would you drive across this bridge in a storm? Let us know below!\n\ud83d\udc49 Follow Bridges Bountsy for the world's greatest bridges and megaprojects! \ud83c\udf09\u2728\n\n#BridgesBountsy #MegaProject #Bridge #OceanBridge #CivilEngineering #Construction #Engineering #Infrastructure #Shorts #Reels",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
